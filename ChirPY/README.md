@@ -1,6 +1,6 @@
-### Project-1: LoopLAB Social Theme App
+### Project-1:  Social profile and revenue website 
 
-This is a project-1: LoopLAB Social Theme App made using HTML, CSS, Bootstrap.
+This is a project-1: Social media profile and revenue website made using HTML, CSS, Bootstrap.
 
 ## Concepts I have learnt so far from this project:
 
